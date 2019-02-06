@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1545978885 source:/home/jose/Project_1/Christmas_Special/christmas.cpp
+	"./include/game.h"
+
+1545263484 source:/home/jose/Project_1/Christmas_Special/main.cpp
+	<memory>
+	<string>
+	<fstream>
+	<memory>
+	<map>
+	<algorithm>
+	<GL/glew.h>
+	<SDL2/SDL.h>
+	<GLFW/glfw3.h>
+
+1545806646 /home/jose/Project_1/Christmas_Special/Utils.h
+	<iostream>
+	<memory>
+	<string>
+	<fstream>
+	<sstream>
+	<memory>
+	<map>
+	<vector>
+	<algorithm>
+	<GL/glew.h>
+	<SDL2/SDL.h>
+	<GLFW/glfw3.h>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtx/transform.hpp>
+
+1545806433 source:/home/jose/Project_1/Christmas_Special/Utils.cpp
+	"Utils.h"
+	<iostream>
+	<string>
+
+1545974877 /home/jose/Project_1/Christmas_Special/include/game.h
+	"Utils.h"
+
+1549369758 /home/jose/Project_1/Christmas_Special/include/Utils.h
+	<iostream>
+	<memory>
+	<string>
+	<fstream>
+	<sstream>
+	<memory>
+	<map>
+	<ctype.h>
+	<vector>
+	<algorithm>
+	<GL/glew.h>
+	<SDL2/SDL.h>
+	<GLFW/glfw3.h>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtx/transform.hpp>
+
+1545977926 source:/home/jose/Project_1/Christmas_Special/src/game.cpp
+	"../include/game.h"
+
+1549368326 source:/home/jose/Project_1/Christmas_Special/src/Utils.cpp
+	"../include/Utils.h"
+	<iostream>
+	<string>
+	<cstring>
+	<fstream>
+
